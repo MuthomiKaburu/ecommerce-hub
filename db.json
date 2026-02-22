@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Gaming Mouse",
+      "price": "43",
+      "description": "High precision mouse",
+      "stock": "21"
+    },
+    {
+      "id": "614b",
+      "name": "Ball",
+      "price": "200",
+      "description": "round",
+      "stock": "13"
+    },
+    {
+      "id": "9751",
+      "name": "chair",
+      "price": "46",
+      "description": "rectangle",
+      "stock": "23"
+    },
+    {
+      "id": "65b8",
+      "name": "phone",
+      "price": "20000",
+      "description": "good",
+      "stock": "15"
+    }
+  ]
+}
