@@ -90,3 +90,7 @@ Change any information needed.
 Click Save Changes.
 A success notification confirms the product has been updated.
 You will be redirected back to the Products page.
+
+
+# link for the app deployment
+https://ecommerce-hub-kappa.vercel.app/ 

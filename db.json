@@ -27,6 +27,13 @@
       "price": "20000",
       "description": "good",
       "stock": "15"
+    },
+    {
+      "id": "7696",
+      "name": "Blanket",
+      "price": "450",
+      "description": "Warm blanket",
+      "stock": "5"
     }
   ]
 }
