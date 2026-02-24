@@ -2,7 +2,7 @@ import { createContext, useState, useEffect } from "react";
 
 export const ProductContext = createContext();
 
-const API_URL = "https://ecommerce-hub-2.onrender.com/products";
+const API_URL = "https://ecommerce-hub-4.onrender.com/products";
 
 export function ProductProvider({ children }) {
   const [products, setProducts] = useState([]);
